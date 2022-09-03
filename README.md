@@ -1,4 +1,4 @@
-### Sejam Bem-vindos 👋
+### Sejam Bem-vindos! 👋
 <!--
 <div>
 ### Contatos:
